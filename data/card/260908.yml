@@ -5,13 +5,13 @@ about:
   head: e7948ad
   archived: false
   latestVersion: "v0.5.0"
-  collectedAt: 2026-09-08T01:41:56Z
+  collectedAt: 2026-09-08T04:09:53Z
 timeline:
   created: 2025-08-16
   lastCommit: 2026-07-16
   lastRelease: 2026-07-08
 popularity:
-  star: 805
+  star: 806
   watcher: 6
   fork: 43
   release: 8
@@ -79,7 +79,7 @@ total:
   commit: 112
 ---
 path: /home/runner/.x-repo/github.com/superstarryeyes/lue
-collectedAt: 2026-09-08T01:41:57Z
+collectedAt: 2026-09-08T04:09:54Z
 loc:
   Python:
     code: 4768
