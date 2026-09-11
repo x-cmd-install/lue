@@ -36,11 +36,11 @@ Total: **4,895** lines of code across **22** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 806 · **Forks**: 43 · **Open issues**: 31 · **Contributors**: 1
+- **Stars**: 807 · **Forks**: 43 · **Open issues**: 32 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 2 · **Commits**: 112
+- **Releases**: 8 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 3 · **Commits**: 112
 
 ## Recent activity
 
@@ -62,4 +62,4 @@ Install metadata for lue lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:13:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:36:27Z._
