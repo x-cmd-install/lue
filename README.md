@@ -40,18 +40,18 @@ Total: **4,895** lines of code across **22** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 3 · **Commits**: 112
+- **Releases**: 8 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 2 · **Commits**: 112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-16 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-17 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-22 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-18 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-23 | 8 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for lue lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:12:59Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:24:24Z._
