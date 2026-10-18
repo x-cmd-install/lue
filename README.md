@@ -36,7 +36,7 @@ Total: **4,895** lines of code across **22** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 816 · **Forks**: 47 · **Open issues**: 33 · **Contributors**: 1
+- **Stars**: 816 · **Forks**: 48 · **Open issues**: 33 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **4,895** lines of code across **22** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-27 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-28 | 8 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for lue lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T03:58:53Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:06:25Z._
